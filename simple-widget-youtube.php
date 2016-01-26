@@ -6,7 +6,7 @@
 	Author: Alexandre Dumont <alexandre@bearxel.com>
 	Author URI: 
 	Version: 0.0.1
-	License: GPL2 or later
+	License: MIT
 */
 
 
